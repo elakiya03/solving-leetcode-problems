@@ -5,8 +5,7 @@ bool isPalindrome(int x) {
         return false;
 
     while (x > 0) {
-        int digit = x % 10;
-        rev = rev * 10 + digit;
+        rev = rev * 10 + x % 10;
         x /= 10;
     }
 
