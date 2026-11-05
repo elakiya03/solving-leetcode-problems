@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0476-number-complement/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
