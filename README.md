@@ -38,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
