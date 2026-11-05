@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0867-transpose-matrix](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
