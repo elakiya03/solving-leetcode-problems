@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0338-counting-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
