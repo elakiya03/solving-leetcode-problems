@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0136-single-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
