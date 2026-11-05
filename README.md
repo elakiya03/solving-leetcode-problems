@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
