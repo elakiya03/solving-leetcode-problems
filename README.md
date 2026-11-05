@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
+| [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
