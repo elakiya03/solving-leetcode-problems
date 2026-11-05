@@ -41,12 +41,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
