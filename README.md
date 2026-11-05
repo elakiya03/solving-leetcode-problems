@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
