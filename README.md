@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0867-transpose-matrix](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
