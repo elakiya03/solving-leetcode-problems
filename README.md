@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0190-reverse-bits](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
