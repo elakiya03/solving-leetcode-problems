@@ -1,22 +1,27 @@
 class Solution {
+    // Using a switch-case is faster than Map lookup in Java
+    private int get(char c) {
+        switch (c) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0;
+        }
+    }
     public int romanToInt(String s) {
-        Map<Character, Integer> m = new HashMap<>();
-        m.put('I', 1);
-        m.put('V', 5);
-        m.put('X', 10);
-        m.put('L', 50);
-        m.put('C', 100);
-        m.put('D', 500);
-        m.put('M', 1000);
 
         int res = 0;
 
         for (int i = 0; i < s.length(); i++) {
 
-            if (i + 1 < s.length() && m.get(s.charAt(i + 1)) > m.get(s.charAt(i))) {
-                res -= m.get(s.charAt(i));
+            if (i + 1 < s.length() && get(s.charAt(i + 1)) > get(s.charAt(i))) {
+                res -= get(s.charAt(i));
             } else
-                res += m.get(s.charAt(i));
+                res += get(s.charAt(i));
         }
         return res;
 
