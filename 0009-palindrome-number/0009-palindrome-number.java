@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        long cpy = x;
-        long rev = 0;
+        int cpy = x;
+        int rev = 0;
 
         if (x < 0)
             return false;
