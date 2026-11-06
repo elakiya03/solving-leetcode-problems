@@ -1,5 +1,4 @@
-int romanToInt(char *s)
-{
+int romanToInt(char* s) {
     int values[128] = {0};
 
     values['I'] = 1;
@@ -12,10 +11,9 @@ int romanToInt(char *s)
 
     int n = 0;
 
-    for (int i = 0; s[i] != '\0'; i++)
-    {
-        int curr = values[(unsigned char)s[i]];
-        int next = values[(unsigned char)s[i + 1]];
+    for (int i = 0; s[i] != '\0'; i++) {
+        int curr = values[s[i]];
+        int next = values[s[i + 1]];
 
         if (curr < next)
             n -= curr;
