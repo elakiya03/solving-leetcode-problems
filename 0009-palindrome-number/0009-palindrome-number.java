@@ -1,15 +1,15 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0)
-            return false;
-        int cpy = x;
-        int rev = 0;
 
-        while (cpy > 0) {
-            rev = rev * 10 + (cpy % 10);
-            cpy /= 10;
+        char[] arr = String.valueOf(x).toCharArray();
+
+        // O(n/2) -> O(n)
+        for (int i = 0; i < arr.length / 2; i++) {
+            if (arr[i] != arr[arr.length - i - 1]) {
+                return false;
+            }
         }
-        return rev == x;
+        return true;
 
     }
 }
