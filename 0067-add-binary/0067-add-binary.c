@@ -2,8 +2,8 @@ char* addBinary(char* a, char* b) {
     int i = strlen(a) - 1;
     int j = strlen(b) - 1;
 
-    int len = (i > j ? i : j) + 2;
-    char* res = malloc(len + 1);
+    int maxLen = (i > j ? i : j) + 3;
+    char* res = (char*)malloc(maxLen * sizeof(char));
 
     int k = 0;
     int carry = 0;
