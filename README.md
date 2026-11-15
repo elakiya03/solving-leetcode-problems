@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0704-binary-search](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/elakiya03/solving-leetcode-problems/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
